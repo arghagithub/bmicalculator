@@ -1,0 +1,70 @@
+*{
+    font-family: Comic Sans MS;
+}
+.red{
+    color: red;
+}
+
+.first{
+    color: rgb(153, 43, 153);
+}
+.green{
+    color: green;
+    font-weight: bold;
+}
+#third{
+    color: orange;
+}
+#forth{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.center{
+    text-align: center;
+}
+.mtop{
+    margin-top: 3px;
+}
+
+.card-img-top{
+    height: 5em;
+    width: 5em;
+    margin: auto;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin:20px 30px;
+}
+
+input{
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container-sm{
+    display: flex;
+    justify-content: center;
+}
+#update{
+    display: none;
+}
+
+select{
+    width: 15em;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+.alert{
+    text-align: center;
+}
+
